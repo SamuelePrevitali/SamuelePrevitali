@@ -16,6 +16,7 @@ Progetto sistemi AI che fanno lavoro vero di marketing: skill per Claude, pipeli
 | Progetto | Cos'è |
 |---|---|
 | [**case-studies**](https://github.com/SamuelePrevitali/case-studies) | 5 case study su sistemi AI in produzione: multi-agente, fact-checking, MCP, GHL |
+| [**redesign-siti-astro**](https://github.com/SamuelePrevitali/redesign-siti-astro) | Metodo e skill di Claude Code per ricostruire siti da ~100 pagine su Astro, con audit automatici |
 | [**corsora**](https://github.com/SamuelePrevitali/corsora) | Sito Next.js + TypeScript e piano marketing completo per un servizio di videocorsi con avatar AI |
 | [**travelmind**](https://github.com/SamuelePrevitali/travelmind) | 🚧 App di diario di viaggio (React + Supabase + Capacitor Android): mappa dei ricordi, spese di gruppo, album PDF, offline, 5 lingue, 226 test |
 
