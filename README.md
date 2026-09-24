@@ -18,10 +18,12 @@ Progetto sistemi AI che fanno lavoro vero di marketing: skill per Claude che pro
 | Progetto | Cos'è |
 |---|---|
 | [**case-studies**](https://github.com/SamuelePrevitali/case-studies) | 5 case study su sistemi AI in produzione: multi-agente, fact-checking, MCP, GoHighLevel |
-| [**sistema-contenuti-ai**](https://github.com/SamuelePrevitali/sistema-contenuti-ai) | 23 skill di Claude in tre anelli: produzione dei contenuti, miglioramento delle skill, osservazione dei casi reali |
+| [**sistema-contenuti-ai**](https://github.com/SamuelePrevitali/sistema-contenuti-ai) | 23 skill di Claude in tre anelli (produzione, miglioramento, osservazione) e pipeline editoriali per cliente: editor, writer, reviewer, fact-checking |
 | [**redesign-siti-astro**](https://github.com/SamuelePrevitali/redesign-siti-astro) | Metodo e skill di Claude Code per ricostruire siti da ~100 pagine su Astro, con audit automatici |
 | [**corsora**](https://github.com/SamuelePrevitali/corsora) | Progetto personale: sito Next.js e piano marketing completo per un servizio di videocorsi con avatar AI |
 | [**travelmind**](https://github.com/SamuelePrevitali/travelmind) | 🚧 Progetto personale: app di diario di viaggio (React + Supabase + Android), offline, 5 lingue, 226 test |
+| [**moneymind**](https://github.com/SamuelePrevitali/moneymind) | Progetto personale: canale faceless automatizzato, con funnel e 15 automazioni n8n |
+| [**investracker**](https://github.com/SamuelePrevitali/investracker) | Progetto personale: tracker di budget e portafoglio in PHP e MySQL |
 
 > 🔒 Skill, codice e materiale dei clienti sono in repository privati e i clienti sono anonimizzati. Se vuoi vedere qualcosa in dettaglio, scrivimi e te lo mostro in call.
 
