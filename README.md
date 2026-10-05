@@ -22,6 +22,7 @@ Progetto sistemi AI che fanno lavoro vero di marketing: skill per Claude che pro
 | [**redesign-siti-astro**](https://github.com/SamuelePrevitali/redesign-siti-astro) | Metodo e skill di Claude Code per ricostruire siti da ~100 pagine su Astro, con audit automatici |
 | [**corsora**](https://github.com/SamuelePrevitali/corsora) | Progetto personale: sito Next.js e piano marketing completo per un servizio di videocorsi con avatar AI |
 | [**travelmind**](https://github.com/SamuelePrevitali/travelmind) | 🚧 Progetto personale: app di diario di viaggio (React + Supabase + Android), offline, 5 lingue, 226 test |
+| [**nations-manager**](https://github.com/SamuelePrevitali/nations-manager) | 🚧 Progetto personale: gioco manageriale di calcio online con 128 nazionali, aste, tattiche e partite simulate con telecronaca (PHP + MySQL) |
 | [**moneymind**](https://github.com/SamuelePrevitali/moneymind) | Progetto personale: canale faceless automatizzato, con funnel e 15 automazioni n8n |
 | [**investracker**](https://github.com/SamuelePrevitali/investracker) | Progetto personale: tracker di budget e portafoglio in PHP e MySQL |
 
@@ -32,7 +33,7 @@ Progetto sistemi AI che fanno lavoro vero di marketing: skill per Claude che pro
 **AI:** Claude, Claude Code, Agent Skills, MCP, ChatGPT, Gemini, HeyGen, NeuronWriter
 **Marketing & CRM:** GoHighLevel, HubSpot, ActiveCampaign, Brevo, Mailchimp, Metricool
 **Analytics & SEO:** GA4, Google Ads, Tag Manager, Looker Studio, Semrush, SEOZoom
-**Web & App:** React, Astro, Next.js, TypeScript, Tailwind, Supabase, Capacitor, Shopify
+**Web & App:** React, Astro, Next.js, TypeScript, Tailwind, Supabase, Capacitor, Shopify, PHP, MySQL
 **Design:** Canva, Figma, Adobe
 
 ### 📫 Contatti
